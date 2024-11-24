@@ -1,4 +1,4 @@
-# Readery
+# [Readery](https://readery-wheat.vercel.app/)
 
 Readery is an innovative platform where users can buy and sell books and posters. It combines intuitive design with powerful features, making it easy to explore, showcase, and expand collections. Whether users are searching for captivating reads or eye-catching decor, Readery provides a seamless experience tailored for book lovers and art enthusiasts.
 
@@ -151,7 +151,7 @@ Push and submit a pull request.
 
 * Relevant author information and links
 
-See also the list of [contributors](https://github.com/Atharvasaraiya/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Atharvasaraiya/) who participated in this project.
 
 ## License
 
